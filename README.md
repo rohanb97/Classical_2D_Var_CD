@@ -1,2 +1,2 @@
-# Classical_2D_Var_CD
-Classical Counterdiabatic Driving in 2D systems
+# Counterdiabatic Driving in 2D Classical Systems
+Code associated with counterdiabatic dirving in ___________. The main files are EvarFunctions.jl which contatins all the relevent functions used and PolynomialClass.jl which aids in computing the AGP. There is also a Variational_CD.jl which is a sample code to reproduce the results from the paper. If the reader has further questions, one can reach me via my email : rbanerj@bu.edu.

@@ -1,0 +1,3 @@
+tau,[Energy Variance after Forward Protocol, Energy Variance after Wait Time, Energy Variance after Cyclic Protocol ]
+0.0001,[0.0014646049785200005, 0.0014646044700571356, 1.2012526575425443e-5]
+0.001,[0.0014645891932640483, 0.001464588684797843, 1.2008186556920691e-5]
